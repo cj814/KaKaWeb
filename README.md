@@ -14,4 +14,4 @@ npm run dev
 npm run build
 ```
 
-预览地址：
+预览地址：https://cj814.github.io/KaKaWeb/docs/
