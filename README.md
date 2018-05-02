@@ -1,21 +1,17 @@
-# kakaquanyi
+# 卡卡权益公众号（ vue-cli demo）
 
-> A Vue.js project
 
-## Build Setup
+## 安装
 
 ``` bash
-# install dependencies
+# 安装项目依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 运行
 npm run dev
 
-# build for production with minification
+# 编译
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+预览地址：
